@@ -1,9 +1,9 @@
 
 # Project: Pokémon Gray
 
-## Diario del desarrollador
+## 📜 Diario del desarrollador
 
-### 14 febrero 2024
+### --- 14 febrero 2024 ---
 
 Inicio del proyecto. Configuración de entorno en RPG Maker XP (v1.05a).
 
@@ -15,11 +15,13 @@ Adiciones:
 - Anciano a la salida del pueblo que advierte al jugador de que es peligroso salir sin un Pokémon.
 - Interior de la casa del jugador. Con un puñado de eventos sencillos sobre muebles.
 
-### 15 febrero 2024
+### --- 15 febrero 2024 ---
 
 Repositorio en GitHub creado para una mayor gestión de los recursos, versiones y documentación.
 
 Descargadas las pistas de audio de 5º generación.
+
+Planeados iniciales de la región (Tepig, Mudkip y Chikorita) y tres líderes de gimnasio (Tipos Planta, Roca y Dragón).
 
 Adiciones:
 
@@ -28,6 +30,8 @@ Adiciones:
 - Nuevos eventos sobre muebles de la casa del protagonista.
 - Evento de encuentro con Belinda al salir de casa.
 - Reproducción de música en Villa Brote.
+- Evento de guía del jugador hasta el laboratorio del profesor tras salir de casa.
+- Interior del laboratorio del profesor.
 
 Cambios:
 
