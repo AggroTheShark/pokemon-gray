@@ -17,12 +17,17 @@ Adiciones:
 
 ### 15 febrero 2024
 
+Repositorio en GitHub creado para una mayor gestión de los recursos, versiones y documentación.
+
+Descargadas las pistas de audio de 5º generación.
+
 Adiciones:
 
 - Evento del primer saludo de la madre del jugador al bajar de su habitación.
 - NPC de niño pequeño a la izquierda de Villa Brote.
 - Nuevos eventos sobre muebles de la casa del protagonista.
 - Evento de encuentro con Belinda al salir de casa.
+- Reproducción de música en Villa Brote.
 
 Cambios:
 
